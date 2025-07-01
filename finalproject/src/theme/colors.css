@@ -1,0 +1,111 @@
+:root{
+--navbar-bgg: #6D2E46 ; 
+--nav-text-color:white;
+--navbar-box-shadow:#000000;
+--nav-title-colorr: white;
+--activelink : #2D2D2D;
+--focus :#d1d5db;
+--background: #FDFCF7;
+--text-secondary: white;
+--title-color :#5C5C5C ;
+--card-b1-bg : white;
+--text-color-info: #5C5C5C;
+--form-bg : white;
+--label-color : #6D2E46;
+--border-label-color :#B8A29B;
+--text-color-title : #3b82f6;
+--condition-messgae :#999;
+--search-background-color:#ffffff;
+--box-shadow-color : rgba(44,62,80,0.10);
+--input-text-color:black;
+--search-title-color : #6D2E46;
+--rest-btn-color :#bbb;
+--text-color-hr : #2563eb;
+  --text-activelink:#D6A24A;
+  --field-bg : white;
+  --card-b3-bg : white;
+--active-step : #2563eb;
+  --btn-back-bg: #e3f2fd;
+  --btn-back-hover: #bbdefb;
+  --primary-color: #1976d2;
+  --text-color: #0d1b2a;
+  --button-primary-bg: #61dafb;
+  --button-primary-text: #1a1a1a; 
+  --button-primary-hover-bg: #4fb0cc;
+--card-b2-bg : white;
+  --button-cancel-text: black;
+  --button-cancel-border: #a0a0a0;
+  --button-cancel-hover-bg: rgba(224, 224, 224, 0.1);
+    --text-color-info-disabled: #9e9e9e; 
+  --border-label-color-disabled: #424242; 
+  --button-primary-bgh:#6D2E46;
+  --button-primary-textt :#FDFCF7;
+  --button-contact-color : #6D2E46;
+  --border-color-cat :#6D2E46 ;
+  --border-color-catt:#8B4E6D;
+  --border-color-cattt:#6D2E46;
+  --arrow-color :#6D2E46;
+  --input-bg : #FDFCF7;
+  --text-light :#FDFCF7;
+  --secondary-color :#5C374D;
+  --details-bg : #FDFCF7 ;
+  --detail-boxShadow :rgba(109, 46, 70, 0.15);
+  --border-grid :#D4A373;
+  --cat:#B8A29B;
+  --cat-focus:#5C374D;
+  --border-stepactive:#B8A29B;
+  --check:#4CAF50;
+  --edit:grey;
+  --text-details :#5C374D;
+  --text-color-infooo:#5C5C5C;
+  --menu-icon-color : white;
+  --text-close:white;
+}
+
+
+
+
+
+[data-theme="dark"] {
+--navbar-bgg: #121212 ;
+--nav-title-colorr:#3b82f6;
+--background: #121212;
+--card-b1-bg :#1f2937;
+--card-b2-bg : #1f2937;
+--text-color-infooo:white;
+--form-bg :#1f2937;
+--label-color:  white;
+--text-color-title : white;
+--condition-messgae: white;
+--search-background-color: #374151;
+--input-text-color: white;
+--text-activelink : #2563eb;
+--field-bg : #374151;
+--card-b3-bg : #374151;
+--active-step : #2563eb;
+--text-secondary: #2563eb;
+--edit:#2563eb;
+--arrow-color: #2563eb;
+ --details-bg :#1f2937;
+   --detail-boxShadow : ;
+   --text-light : #1f2937;
+   --text-details : grey;
+     --border-grid :#2563eb;
+     --search-title-color :#2563eb;
+     --title-color : #2563eb;
+     --button-primary-bgh:#2563eb;
+     --input-bg :white;
+     --cat: #2563eb;
+      --border-color-cat :#2563eb;
+      --cat-focus:#2563eb;
+      --border-label-color :#2563eb;
+      --label-color:#2563eb;
+      --border-color-catt:#2563eb;
+      --button-contact-color:#2563eb;
+      --border-stepactive : #2563eb;
+      --secondary-color : #2563eb;
+  --table-row-hover: #1f2937;
+  --text-color-infoo: white;
+  --menu-icon-color:#2563eb;
+
+}
